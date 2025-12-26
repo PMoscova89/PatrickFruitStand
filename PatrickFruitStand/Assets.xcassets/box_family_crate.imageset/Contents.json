@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "box_family_crate.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
